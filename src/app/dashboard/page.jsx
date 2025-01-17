@@ -4,7 +4,7 @@ import AdminNavbar from "@/components/Admin-navbar"
 import NotAuthenticated from "@/components/not-authenticated"
 import GuardTab from "@/components/GuardTab"
 import MMCATab from "@/components/MMCATab"
-import { FilterBar, FilterOptions } from '@/components/FilterBar';
+import { FilterBar, FilterOptions } from '@/components/filterbar';
 import { useEffect, useState } from 'react';
 import { formatDate } from "@/lib/utils";
 
